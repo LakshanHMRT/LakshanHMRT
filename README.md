@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px"> , I'm Thushara</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=700&lines=Web+Developer+and+UI/UX+Designer" alt="Typing SVG" /></a></h3>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F539E3&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+
 ![](https://github.com/LakshanHMRT/LakshanHMRT/blob/main/TitleBanner.PNG)
 
 Hi there, my name is Thushara Lakshan. I'm a 22 years old full-time freelancing web developer and a UI/UX designer. I have experience working on many freelancing websites over the past three years and have completed many projects for my clients. Currently, I'm not working full time as I'm doing my studies to complete my degree in Software Engineering as the next step in my career.
