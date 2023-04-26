@@ -10,9 +10,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F539E3&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
-<p align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=LakshanHMRT)](https://github.com/ryo-ma/github-profile-trophy)
-</p> 
+
 
 <br>
 <p align="center">
