@@ -1,4 +1,4 @@
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px"></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px">There! </h1>
 
 ![](https://github.com/LakshanHMRT/LakshanHMRT/blob/main/ProfileBanner.PNG)
 <br>
