@@ -73,7 +73,7 @@
 <p align="center">
              
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshanHMRT&layout=compact&theme=github_dark"/>
-<br>  
+
 <p>
 
 <p align="center">
