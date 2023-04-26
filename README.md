@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px"></h1>
 
 ![](https://github.com/LakshanHMRT/LakshanHMRT/blob/main/ProfileBanner.PNG)
+<br>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=700&lines=Web+Developer+and+UI/UX+Designer" alt="Typing SVG" /></a></h3>
 
