@@ -1,4 +1,4 @@
-(https://github.com/LakshanHMRT/LakshanHMRT/blob/main/Banner.PNG)
+![](https://github.com/LakshanHMRT/LakshanHMRT/blob/main/Banner.PNG)
 
 Hi there, my name is Thushara Lakshan. I'm a 22 years old full-time freelancing web developer and a UI/UX designer. I have experience working on many freelancing websites over the past three years and have completed many projects for my clients. Currently, I'm not working full time as I'm doing my studies to complete my degree in Software Engineering as the next step in my career.
 
@@ -12,12 +12,9 @@ Skills: JAVA / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshanHMRT)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshanHMRT&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LakshanHMRT)  
-
 ![GitHub metrics](https://metrics.lecoq.io/LakshanHMRT)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=LakshanHMRT)  
+
 
 
