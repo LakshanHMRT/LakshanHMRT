@@ -1,3 +1,6 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px"> , I'm Thushara</h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=700&lines=Web+Developer+&+a+UI/UX+Designer" alt="Typing SVG" /></a></h3>
+
 ![](https://github.com/LakshanHMRT/LakshanHMRT/blob/main/TitleBanner.PNG)
 
 Hi there, my name is Thushara Lakshan. I'm a 22 years old full-time freelancing web developer and a UI/UX designer. I have experience working on many freelancing websites over the past three years and have completed many projects for my clients. Currently, I'm not working full time as I'm doing my studies to complete my degree in Software Engineering as the next step in my career.
@@ -15,5 +18,75 @@ Skills: JAVA / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=LakshanHMRT)  
 
 
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7DE8F7&center=true&width=700&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=hibernate,html,idea,java,js,bootstrap,powershell,mysql,nodejs" />
+   <img src="https://skillicons.dev/icons?i=css,figma,git,github,linkedin,vscode,ps" />
+  </a>
+</p>
+
+<br><br>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F539E3&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p>  
+
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshanHMRT&theme=tokyonight" />
+  
+ <p>
+   
+<br>
+
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LakshanHMRT&theme=tokyonight&utcOffset=8" />
+  
+ <p>
+<br>   
+
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshanHMRT&theme=tokyonight" />
+  
+ <p>
+
+  <br>
+<p align="center">
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=LakshanHMRT&&show_icons=true&count_private=true&theme=github_dark">
+  
+ <p>
+
+ <br>
+ 
+ <p align="center">
+        
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=LakshanHMRT&theme=navy-gear">
+  
+<p>
+  
+<br>
+
+<p align="center">
+             
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshanHMRT&layout=compact&theme=github_dark"/>
+  
+<p>
+  
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F539E3&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+<br>
+
+<p align="center"><img  src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif"  width="400" height="300"></p>
+<br>
+<br>
 
 
