@@ -16,7 +16,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=LakshanHMRT)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7DE8F7&center=true&width=700&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a>
 </p>
