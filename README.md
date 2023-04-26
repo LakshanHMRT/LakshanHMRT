@@ -13,10 +13,6 @@ Skills: JAVA / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LakshanHMRT)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/LakshanHMRT)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=LakshanHMRT)  
-
 
 
 <p align="center">
