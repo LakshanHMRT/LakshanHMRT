@@ -1,4 +1,3 @@
-### Hi there 👋,
 ![](https://github.com/LakshanHMRT/LakshanHMRT/blob/main/TitleBanner.PNG)
 
 Hi there, my name is Thushara Lakshan. I'm a 22 years old full-time freelancing web developer and a UI/UX designer. I have experience working on many freelancing websites over the past three years and have completed many projects for my clients. Currently, I'm not working full time as I'm doing my studies to complete my degree in Software Engineering as the next step in my career.
