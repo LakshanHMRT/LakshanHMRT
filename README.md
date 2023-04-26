@@ -75,10 +75,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshanHMRT&layout=compact&theme=github_dark"/>
   
 <p>
-<br>  
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F539E3&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
-<br>
 <h1 align="center">Thanks for visiting my profile. Have a nice day!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px"></h1>
 
