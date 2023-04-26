@@ -1,6 +1,4 @@
-### Hi there 👋, my name is Thushara Lakshan.
-#### I am a Web Developer & a UI/UX Designer.
-![I am a Web Developer & a UI/UX Designer.](https://github.com/LakshanHMRT/LakshanHMRT/blob/main/Banner.PNG)
+(https://github.com/LakshanHMRT/LakshanHMRT/blob/main/Banner.PNG)
 
 Hi there, my name is Thushara Lakshan. I'm a 22 years old full-time freelancing web developer and a UI/UX designer. I have experience working on many freelancing websites over the past three years and have completed many projects for my clients. Currently, I'm not working full time as I'm doing my studies to complete my degree in Software Engineering as the next step in my career.
 
